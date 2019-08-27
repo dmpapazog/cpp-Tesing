@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
+project(testing_travis)
 
 if(MSVC)
     add_compile_options(/W4)
