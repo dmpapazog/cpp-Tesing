@@ -1,3 +1,0 @@
-/home/dpapazog/cpp-Tesing/CMakeFiles/rebuild_cache.dir
-/home/dpapazog/cpp-Tesing/CMakeFiles/main.dir
-/home/dpapazog/cpp-Tesing/CMakeFiles/edit_cache.dir
