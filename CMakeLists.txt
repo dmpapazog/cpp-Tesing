@@ -1,0 +1,4 @@
+cmake_minimum_require(VERSION 3.5)
+
+add_executable(main main.cpp)
+target_compile_features(main PRIVATE cxx_lambda_init_captures)
